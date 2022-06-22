@@ -1,0 +1,465 @@
+[{
+   "question": "¿En qué año se inauguró el Obelisco?",
+   "choices": [
+      "1920",
+      "1936",
+      "1915",
+      "1953"
+   ],
+   "answer": 1,
+   "tip": "Sabias que se inaguró en 1936 para recordar el cuarto centenario de la primera fundación de Buenos Aires? Esta ubicado en la Plaza de la República, lugar donde fue izada por primera vez la bandera nacional en la Ciudad! Acercate y tomate una foto junto al mayor emblema de Buenos Aires!!",
+   "category": "monumentos",
+   "bg-image" : "obelisco.jpg"
+},
+{
+   "question": "¿Como se llamó históricamente la Torre Monumental de Retiro?",
+   "choices": [
+       "Torre espacial",
+       "Kavanagh",
+       "Torre de los Ingleses"
+   ],
+   "answer": 2,
+   "category":"monumentos",
+   "tip":"Sabias que la Torre fue una donación de los residentes británicos en la Argentina con motivo del centenario del primer gobierno patrio Argentino? Es una típica construcción inglesa y cuenta con un mirador con una increible vista de la Ciudad!",
+   "bg-image" : "obelisco.jpg"
+},
+{
+   "question": "¿En qué barrio se encuentra ubicado el Monumento al Tango?",
+   "choices": [
+       "Balvanera",
+       "En el barrio de Puerto Madero.",
+       "La Boca"
+   ],
+   "answer": 1,
+   "category":"monumentos",
+   "tip":"Sabias que este monumento rinde homenaje al género musical más emblemático de la Ciudad de Buenos Aires? Fue inaugurado en 2007, el 22 de noviembre, Día de la Música. La figura alcanza los 3,5 metros de altura y se asemeja a un bandoneón, instrumento infaltable en la interpretación del tango! Visitalo en el barrio de Puerto Madero!",
+   "bg-image" : "obelisco.jpg"
+},
+{
+   "question": "¿Que simboliza el icono porteño 'Puente de la mujer'",
+   "choices": [
+       "Una pareja bailando tango ",
+       "Un hombre bailando tango.",
+       "Una mujer bailando tango. "
+   ],
+   "answer": 0,
+   "category":"monumentos",
+   "tip":"Sabias que el barrio de Puerto Madero, es uno de los más modernos de Buenos Aires? Se caracteriza por sus calles, atractivos y parques que llevan el nombre de mujeres que dejaron su huella en la historia de Argentina y Latinoamérica. Te invitamos a disfrutar de este gran oasis dentro de la Ciudad!",
+   "bg-image" : "obelisco.jpg"
+},
+{
+   "question": "¿Cuántas estatuas de la Libertad existen en Buenos Aires?",
+   "choices": [
+       "Dos",
+       "Tres",
+       "Una",
+       "Cuatro"
+   ],
+   "answer": 0,
+   "category":"monumentos",
+   "tip":"Existen dos estatuas, una en el frente de la escuela Sarmiento sobre la Avenida Callao y la segunda en las Barrancas de Belgrano",
+   "bg-image" : "obelisco.jpg"
+},
+{
+   "question": "¿Cuántos monumentos homenajean al Gral. San Martín?",
+   "choices": [
+       "Una",
+       "Dos",
+       "Tres",
+       "Cuatro"
+   ],
+   "answer": 1,
+   "category":"monumentos",
+   "tip":"",
+   "bg-image" : "obelisco.jpg"
+},
+{
+   "question": "¿Cuál es el primer monumento que tuvo Buenos Aires?",
+   "choices": [
+       "La Pirámide de Mayo",
+       "Obelisco",
+       "San Martín"
+   ],
+   "answer": 0,
+   "category":"monumentos",
+   "tip":"Sabias que la pirámide se encuentra en la Plaza de Mayo? Es la Plaza más antigua de Buenos Aires y escenario de todos los acontecimientos políticos más importantes de la historia argentina. Bordeando la Plaza de Mayo se ubican varios edificios históricos y gubernamentales: el Cabildo, la Catedral Metropolitana (donde ofició misa el Papa Francisco durante más de 20 años), y la Casa de Gobierno (conocida también como Casa Rosada) Consultá por nuestras visitas guiadas para conocer cada uno de sus rincones!",
+   "bg-image" : "obelisco.jpg"
+},
+{
+   "question": "¿En qué barrio se encuentra la Floralis Genérica?",
+   "choices": [
+       "Palermo",
+       "Recoleta",
+       "Belgrano"
+   ],
+   "answer": 1,
+   "category":"monumentos",
+   "tip":"Sabias que la Floralis Genérica es una impresionante escultura de una flor construida en aluminio y acero? Pesa dieciocho toneladas y mide veintitrés metros! Está ubicada en la Plaza de las Naciones Unidas, en el barrio de Recoleta.",
+   "bg-image" : "obelisco.jpg"
+},
+{
+   "question": "¿En qué barrio se encuentra la mítica tanguería El Viejo Almacén?",
+   "choices": [
+       "San Nicolas",
+       "La Boca",
+       "San Telmo"
+   ],
+   "answer": 2,
+   "category":"tango",
+   "tip":"",
+   "bg-image" : "tango.jpg"
+},
+{
+   "question": "¿Carlos Gardel conoció el Obelisco?",
+   "choices": [
+       "No, muere un año antes de la inaguración",
+       "Si"
+   ],
+   "answer": 0,
+   "category":"tango",
+   "tip":"",
+   "bg-image" : "tango.jpg"
+},
+{
+   "question": "¿Sobre qué avenida vivió Carlos Gardel?",
+   "choices": [
+       "Callao",
+       "Sobre Avenida Corrientes",
+       "Belgrano"
+   ],
+   "answer": 1,
+   "category":"tango",
+   "tip":"Sabias que a la Avenida Corrientes por su vida nocturna se la conoce como “la calle que nunca duerme”? Esto se lo debe principalmente a que posee la mayor concentración de librerías, teatros, pizzerías y bares de Buenos Aires, algunos de ellos considerados 'Notables'. Fue testigo de la época de oro del tango, ya que en sus bares, teatros y cabarets se reunieron y tocaron grandes músicos de la historia Argentina.",
+   "bg-image" : "tango.jpg"
+},
+{
+   "question": "¿En qué lugar fue velado Carlos Gardel?",
+   "choices": [
+       "En el estadio Luna Park",
+       "En el Mercado de Abasto",
+       "En Plaza de Mayo"
+   ],
+   "answer": 0,
+   "category":"tango",
+   "tip":"Sabias que los restos de Carlos Gardel se encuentran en el Cementerio de Chacarita? Desde fines de los años 30, su tumba se convirtió en paso obligado para miles personas de todo el mundo!",
+   "bg-image" : "tango.jpg"
+},
+{
+   "question": "¿De qué país es originario el bandoneón?",
+   "choices": [
+       "Estados Unidos",
+       "Francia",
+       "Alemania"
+   ],
+   "answer": 2,
+   "category":"tango",
+   "tip":"",
+   "bg-image" : "tango.jpg"
+},
+{
+   "question": "¿Qué ocurrió primero, la apertura de la calle Caminito o la composición del Tango?",
+   "choices": [
+       "El Tango, data de 1926",
+       "Calle Caminito"
+   ],
+   "answer": 0,
+   "category":"tango",
+   "tip":"",
+   "bg-image" : "tango.jpg"
+},
+{
+   "question": "El tango es Patrimonio de la Humanidad",
+   "choices": [
+       "Verdadero",
+       "Falso"
+   ],
+   "answer": 0,
+   "category":"tango",
+   "tip":"Sabias que el tango fue declarado Patrimonio Cultural Inmaterial de la Humanidad por la UNESCO en 2009? No te pierdas la oportunidad de presenciar un show de esta danza cargada de historias, secretos y pasiones, en la Ciudad de Buenos Aires, capital mundial del Tango!",
+   "bg-image" : "tango.jpg"
+},
+{
+   "question": "¿Qué superficie tiene la Ciudad de Buenos Aires?",
+   "choices": [
+      "150 km",
+      "120 km",
+      "203 km2"
+   ],
+   "answer": 2,
+   "category":"curiosidades",
+   "tip":"Sabias que en la Ciudad de Buenos Aires podes realizar numerosas actividades? Asistir a galerías de arte y museos. Deleitarte con gastronomía al aire libre, en patios gastronómicos o en interiores. Recorrer y comprar en ferias artesanales. Hacer compras en shoppings y en circuitos comerciales a cielo abierto. Realizar paseos al aire libre en nuestros grandes parques! Te invitamos a que recorras esta increible Ciudad con nuestras visitas guiadas!",
+   "bg-image" : "test.jpg"
+},
+{
+   "question": "¿Cuál de estas confiterías es más antigua, Las Violetas o El Molino?",
+   "choices": [
+      "El Molino",
+      "Las Violetas"
+   ],
+   "answer": 1,
+   "category":"curiosidades",
+   "tip":"Sabias que Las Violetas, inaugurado en 1884, es un bar notable? Cumple con esta condición porque ha sido desde sus comienzos destacado por su diseño arquitectónico y ha contribuido al patrimonio histórico y cultural porteño.",
+   "bg-image" : "test.jpg"
+},
+{
+   "question": "¿Cual es el mayor espacio verde de la Ciudad de Buenos Aires?",
+   "choices": [
+      "Reserva Ecologica",
+      "Parque Tres de Febrero",
+      "Parque Sarmiento."
+   ],
+   "answer": 0,
+   "category":"curiosidades",
+   "tip":"Sabias que la Reserva Ecológica cuenta con 350 hectareas?",
+   "bg-image" : "test.jpg"
+},
+{
+   "question": "¿Que es el Fileteado Porteño?",
+   "choices": [
+      "Un plato típico porteño",
+      "Un deporte porteño",
+      "Es un estilo artístico para pintar y dibujar típicamente porteño"
+   ],
+   "answer": 2,
+   "category":"curiosidades",
+   "tip":"Sabias que el Fileteado Porteño fue declarado Patrimonio cultural inmaterial de la Humanidad? Se destaca por sus trazos lineales y sus colores fuertes!",
+   "bg-image" : "test.jpg"
+},
+{
+   "question": "¿Donde queda la Feria de las Artesanías y Tradiciones Populares Argentinas?",
+   "choices": [
+      "San Telmo",
+      "Mataderos",
+      "La Boca"
+   ],
+   "answer": 1,
+   "category":"curiosidades",
+   "tip":"Sabias que la Feria de Artesanias de Mataderos fue declarada Patrimonio Cultural de la Ciudad? Allí se pueden encontrar desde finas piezas de platería hasta mates, ponchos, mantas, facones y objetos de cuero!",
+   "bg-image" : "test.jpg"
+},
+{
+   "question": "¿Quien es 'Mafalda'?",
+   "choices": [
+      "Una escritora nacida en BsAs",
+      "Una famosa chef argentina",
+      "La protagonista de una famosa historieta."
+   ],
+   "answer": 2,
+   "category":"curiosidades",
+   "tip":"Sabias que Mafalda es el nombre de una famosa historieta argentina creada por Quino en 1964?",
+   "bg-image" : "test.jpg"
+},
+{
+   "question": "¿Donde se encuentra el mural 'Diversidad en la calles'?",
+   "choices": [
+      "San Telmo",
+      "Colegiales",
+      "Villa Crespo"
+   ],
+   "answer": 1,
+   "category":"curiosidades",
+   "tip":"",
+   "bg-image" : "test.jpg"
+},
+{
+   "question": "La ciudad de Buenos Aires es conocida como 'La Ciudad de las Librerias'",
+   "choices": [
+      "Verdadero",
+      "Falso"
+   ],
+   "answer": 0,
+   "category":"curiosidades",
+   "tip":"Aproximadamente hay 25 librerias cada 100.000 habitantes! Una de las librerias mas conocidas, es la libreria Ateneo Grand Splendid!",
+   "bg-image" : "test.jpg"
+},
+{
+   "question": "Buenos Aires es la segunda Ciudad con mayor cantidad de estadios de futbol en el mundo",
+   "choices": [
+      "Verdadero",
+      "Falso"
+   ],
+   "answer": 0,
+   "category":"curiosidades",
+   "tip":"Sabias que Buenos Aires es la Ciudad con mayor cantidad de estadios en el mundo? Una de las grandes pasiones argentinas es el fútbol.",
+   "bg-image" : "test.jpg"
+},
+{
+   "question": "¿A que se refiere un porteño con la expresión 'Bondi'?",
+   "choices": [
+      "Al desorden",
+      "Al Bus Urbano",
+      "Al trabajo"
+   ],
+   "answer": 1,
+   "category":"curiosidades",
+   "tip":"",
+   "bg-image" : "test.jpg"
+},
+{
+   "question": "El Café Tortoni, fundado en 1958, es el más antiguo de la Ciudad",
+   "choices": [
+      "Verdadero",
+      "Falso"
+   ],
+   "answer": 0,
+   "category":"curiosidades",
+   "tip":"Entre sus clientes más destacados se encontraban los escritores Jorge Luis Borges, Federico García Lorca y Julio Cortázar, así como los músicos Arthur Rubinstein y el mítico Carlos Gardel.",
+   "bg-image" : "test.jpg"
+},
+{
+   "question": "¿Que árbol es uno de los mas emblematicos de la Ciudad?",
+   "choices": [
+      "Sauce criollo",
+      "Quebracho",
+      "Jacarandá"
+   ],
+   "answer": 2,
+   "category":"curiosidades",
+   "tip":"Sabias que los jacarandás porteños fueron incorporados al paisaje urbano por Carlos Thays? En Buenos Aires el Jacarandá es un símbolo de la primavera!",
+   "bg-image" : "test.jpg"
+},
+{
+   "question": "¿Que famoso cantautor escribio 'La Ciudad de la Furia' haciendo referencia a la Ciudad de Buenos Aires?",
+   "choices": [
+      "Gustavo Cerati",
+      "Charly Garcia",
+      "Carlos Gardel"
+   ],
+   "answer": 0,
+   "category":"curiosidades",
+   "tip":"¿Sabias que Gustavo Cerati nació en la Ciudad de Buenos Aires? Los restos del músico argentino de reconocimiento internacional y lider de la banda de rock 'Soda Stereo'  se encuentran en el cementerio de Chacarita.",
+   "bg-image" : "test.jpg"
+},
+{
+   "question": "A la Ciudad de Buenos Aires, tambien se la conoce como la Ciudad de las pizzas",
+   "choices": [
+      "Verdadero",
+      "Falso"
+   ],
+   "answer": 0,
+   "category":"curiosidades",
+   "tip":"Sabias que Buenos Aires es de las ciudades con mayor consumo de pizza? La trajeron los primeros italianos en llegar al pais pero los porteños se encargaron de darle su toque estilo al molde.",
+   "bg-image" : "test.jpg"
+},
+{
+   "question": "¿Qué cementerio es más antiguo, Chacarita o Recoleta?",
+   "choices": [
+      "Chacarita es de 1871",
+      "Recoleta (1822)"
+   ],
+   "answer": 1,
+   "category":"barrios",
+   "tip":"Sabias que el cementerio de Recoleta es el más visitado de la ciudad, por sus numerosos e imponentes mausoleos y bóvedas, pertenecientes a muchos de los principales protagonistas de la historia argentina? Como por ejemplo, el de Eva Perón (Evita), una de las tumbas más concurridas! Consultá por las visitas guiadas que ofrece el Ente de Turismo y conoce las historias curiosas de sus mausoleos!",
+   "bg-image" : "test.jpg"
+},
+{
+   "question": "¿A qué zona de Buenos Aires se la conocía antiguamente como Tierra del Fuego?",
+   "choices": [
+      "Recoleta",
+      "Palermo viejo",
+      "Barracas"
+   ],
+   "answer": 0,
+   "category":"barrios",
+   "tip":"",
+   "bg-image" : "test.jpg"
+},
+{
+   "question": "¿Cuál de las líneas de subte está construida a mayor profundidad?",
+   "choices": [
+      "A",
+      "E",
+      "H"
+   ],
+   "answer": 2,
+   "category":"barrios",
+   "tip":"",
+   "bg-image" : "test.jpg"
+},
+{
+   "question": "¿De qué ciudad europea provienen los materiales para la construcción de la estación Mitre?",
+   "choices": [
+      "Londres",
+      "Liverpool",
+      "Nueva York"
+   ],
+   "answer": 1,
+   "category":"barrios",
+   "tip":"",
+   "bg-image" : "test.jpg"
+},
+{
+   "question": "¿En qué año se produjo la Epidemia de fiebre amarilla que afectó la zona sur de la ciudad?",
+   "choices": [
+      "1861",
+      "1869",
+      "1871"
+   ],
+   "answer": 2,
+   "category":"barrios",
+   "tip":"",
+   "bg-image" : "test.jpg"
+},
+{
+   "question": "¿En qué Avenida se concentra la mayor cantidad de librerías?",
+   "choices": [
+      "Córdoba",
+      "Corrientes",
+      "Santa Fé"
+   ],
+   "answer": 1,
+   "category":"barrios",
+   "tip":"Sabias que la Avenida Corrientes tambien concentra la mayor cantidad de pizzerias y teatros? Visitar una libreria, comer una pizza y presenciar un espectaculo en esta avenida, serán experiencias inolvidables que te llevarás de la Ciudad!",
+   "bg-image" : "test.jpg"
+},
+{
+   "question": "¿Cuál es el único barrio de Buenos Aires cuyas calles tienen únicamente nombres de mujeres?",
+   "choices": [
+      "Balvanera",
+      "Barracas",
+      "Puerto Madero"
+   ],
+   "answer": 2,
+   "category":"barrios",
+   "tip":"Sabias que el barrio de Puerto Madero, honra a las mujeres mas importantes de la historia de Argentina y Latinoamérica? Calles, avenidas, parques y plazas llevan el nombre de grandes mujeres! En Puerto Madero, tambien se encuentra el Puente de la Mujer, uno de los símbolos del barrio y una de las obras modernas más llamativas de la ciudad.",
+   "bg-image" : "test.jpg"
+},
+{
+   "question": "¿Cuál es el barrio más chico?",
+   "choices": [
+      "La Boca",
+      "San Telmo",
+      "Puerto Madero"
+   ],
+   "answer": 1,
+   "category":"barrios",
+   "tip":"Sabias que San Telmo es  uno de los barrios más antiguos y tradicionales, sede del Casco Histórico y de muchas tanguerías? Consultanos por los atractivos de este barrio lleno de historias!",
+   "bg-image" : "test.jpg"
+},
+{
+   "question": "¿Cuál es el barrio más grande?",
+   "choices": [
+      "Palermo",
+      "Barracas",
+      "Recoleta"
+   ],
+   "answer": 0,
+   "category":"barrios",
+   "tip":"Sabias que Palermo es uno de los barrios más turísticos por la gran variedad de atracciones que concentra? La costanera, el hipódromo, los parques, un conjunto de espacios verdes, como el Rosedal, el Planetario, la Sociedad Rural, y el Jardín Botánico! Además, concentra polos gastronómicos, paseos de compras y numerosas embajadas!",
+   "bg-image" : "test.jpg"
+},
+{
+   "question": "¿Donde se encuentra el Planetario Galileo Galilei?",
+   "choices": [
+      "Belgrano",
+      "Puerto Madero",
+      "Palermo"
+   ],
+   "answer": 2,
+   "category":"barrios",
+   "tip":"Sabias que el Planetario es el principal centro de divulgación de astronomía de la ciudad? Su edificio de cinco pisos también cuenta con un museo!",
+   "bg-image" : "test.jpg"
+}
+
+
+]
